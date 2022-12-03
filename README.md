@@ -1,0 +1,2 @@
+# KCTCS
+Diploma cs dept
